@@ -17,8 +17,8 @@
 
 
 <details>
-  <summary> 🤹Recent Activites 🗻</summary>
-   🥖test text 🤠
+  <summary> 🤹 Recent Activites 🗻</summary>
+   🥖 Test text 🤠
 </details>
 
 <details>
