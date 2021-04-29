@@ -23,7 +23,5 @@
 
 <details>
   <summary> 📊 GitHub Stats </summary>
-  
   <img align="left" alt="rarcher18's Github Stats" src="https://github-readme-stats-inky-seven.vercel.app/api?username=rarcher18&show_icons=true&hide_border=true" />
-
 </details>
