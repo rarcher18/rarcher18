@@ -20,7 +20,7 @@
 
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
-   🥖 Test text 🤠
+   🥖 <!--START_SECTION:activity--> 🤠
 </details>
 
 <details>
