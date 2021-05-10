@@ -20,7 +20,8 @@
 
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
-   <!--START_SECTION:activity--> 
+  <!--START_SECTION:activity--> 
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
