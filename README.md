@@ -16,8 +16,6 @@
 - 😄 Pronouns: .
 - ⚡ Fun fact: .
 -->
-:simple_smile:
-
 
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
