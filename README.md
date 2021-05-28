@@ -14,8 +14,10 @@ I'm hoping to learn more languages as time goes on.
 
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
+  
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
+  
   <!--START_SECTION:activity--> 
   <!--END_SECTION:activity-->
 </details>
@@ -24,3 +26,4 @@ I'm hoping to learn more languages as time goes on.
   <summary> 📊 GitHub Stats </summary>
   <img align="left" alt="rarcher18's Github Stats" src="https://github-readme-stats-inky-seven.vercel.app/api?username=rarcher18&show_icons=true&hide_border=true" />
 </details>
+
