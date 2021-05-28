@@ -19,7 +19,6 @@ I'm hoping to learn more languages as time goes on.
   <!--END_SECTION:waka-->
   
   <!--START_SECTION:activity--> 
-  <!--END_SECTION:activity-->
 </details>
 
 <details>
