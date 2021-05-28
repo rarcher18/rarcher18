@@ -9,9 +9,6 @@ I'm hoping to learn more languages as time goes on.
 <!--<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/.svg" /> 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
   
