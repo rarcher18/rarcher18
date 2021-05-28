@@ -1,29 +1,21 @@
 ### Hi there 👋
 
-I'm Ryan
-
-<!--<img  height="32" width="32" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+My name is Ryan and I'm currently learning Java. <img  height="32" width="32" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+<br> </br>
+I'm hoping to learn more languages as time goes on.
 
 <!--<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" />
 
 <!--<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/.svg" /> 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Ruby, React, and AWS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: .
-- ⚡ Fun fact: .
--->
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   <!--START_SECTION:activity--> 
   <!--END_SECTION:activity-->
 </details>
