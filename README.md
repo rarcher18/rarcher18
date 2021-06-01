@@ -12,8 +12,7 @@ I'm hoping to learn more languages as time goes on.
   
    <!--START_SECTION:waka-->
    <!--END_SECTION:waka-->
- 
-   <!--START_SECTION:activity--> 
+   
 </details>
 
 <details>
