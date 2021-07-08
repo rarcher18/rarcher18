@@ -6,12 +6,12 @@ I'm hoping to learn more languages as time goes on.
 
 <!--<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" /> -->
 
- 
+<!-- 
 <details>
   <summary> 🤹 Recent Activites 🗻</summary>
   
    <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+   <!--END_SECTION:waka--> 
    
 </details>
 
