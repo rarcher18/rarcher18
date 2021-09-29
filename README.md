@@ -17,7 +17,8 @@ I'm hoping to learn more languages as time goes on.
 
 <details>
   <summary> 📊 GitHub Stats </summary>
-  <img align="left" alt="rarcher18's Github Stats" src="https://github-readme-stat-seven.vercel.app/api?username=rarcher18&show_icons=true&hide_border=true" />
+  
+<
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarcher18&show_icons=true&theme=tokyonight)
+
 </details>
-
-
