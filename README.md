@@ -18,7 +18,7 @@ I'm hoping to learn more languages as time goes on.
 <details>
   <summary> 📊 GitHub Stats </summary>
   
-<
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarcher18&show_icons=true&theme=tokyonight)
 
 </details>
