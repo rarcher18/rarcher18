@@ -21,4 +21,7 @@ I'm hoping to learn more languages as time goes on.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarcher18&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarcher18)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </details>
