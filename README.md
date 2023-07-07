@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ryan and I'm currently learning Java. <img  height="32" width="32" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+My name is Ryan and I'm currently learning Java. <img  height="32" width="32" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> and Javascript
 <br> </br>
 I'm hoping to learn more languages as time goes on.
 
